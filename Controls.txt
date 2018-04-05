@@ -1,0 +1,33 @@
+intention-> foward
+Manual Control-> Symetric Trigers
+Fly-by-Wire Control-> Left Stick forward or W key
+Actuator(s)-> Both Tracks Forward - Same Speed
+____________________________________________
+
+intention-> bakwards / breaking
+Manual Control-> Symmetric Bumpers
+Fly-by-Wire Control-> left Stick Bakward or S key
+Actuator(s)-> Both tracks Backwards - Same Speed
+____________________________________________
+
+intention->Left
+Manual Control-> NA
+Fly-by-Wire Control-> left Stick left or A key
+Actuator(s)-> left track backward and right track forward - Right track higger speed
+____________________________________________
+intention-> Rigth
+Manual Control-> NA
+Fly-by-Wire Control-> left Stick Rigth or D key
+Actuator(s)-> Rigth track backward and left track forward - Left track higger speed
+____________________________________________
+
+intention-> Shotting
+Manual Control-> NA
+Fly-by-Wire Control-> RH or left mouse button
+Actuator(s)-> shoting bulet from cannom
+____________________________________________
+intention-> Turret
+Manual Control-> NA
+Fly-by-Wire Control-> Looking & Rigth Stick Rigth or Mouse
+Actuator(s)-> Moving turret with camera
+____________________________________________
